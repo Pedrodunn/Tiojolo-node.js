@@ -9,6 +9,7 @@ body{
 #navegacao h2{
   display: none;
   margin: 0;
+  /* height:30; */
 }
 
 header{
